@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\hmcar\\.gradle\\daemon\\9.0-milestone-1\\com.example.meuapp-debug-4:\\layout_fragment_weather.xml.flat",
+        "source": "C:\\Users\\hmcar\\.gradle\\daemon\\9.0-milestone-1\\com.example.meuapp-main-6:\\layout\\fragment_weather.xml"
+    },
+    {
+        "merged": "C:\\Users\\hmcar\\.gradle\\daemon\\9.0-milestone-1\\com.example.meuapp-debug-4:\\layout_fragment_map.xml.flat",
+        "source": "C:\\Users\\hmcar\\.gradle\\daemon\\9.0-milestone-1\\com.example.meuapp-main-6:\\layout\\fragment_map.xml"
+    },
+    {
+        "merged": "C:\\Users\\hmcar\\.gradle\\daemon\\9.0-milestone-1\\com.example.meuapp-debug-4:\\layout_activity_about.xml.flat",
+        "source": "C:\\Users\\hmcar\\.gradle\\daemon\\9.0-milestone-1\\com.example.meuapp-main-6:\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\hmcar\\.gradle\\daemon\\9.0-milestone-1\\com.example.meuapp-debug-4:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\hmcar\\.gradle\\daemon\\9.0-milestone-1\\com.example.meuapp-main-6:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\hmcar\\.gradle\\daemon\\9.0-milestone-1\\com.example.meuapp-debug-4:\\layout_item_weather.xml.flat",
+        "source": "C:\\Users\\hmcar\\.gradle\\daemon\\9.0-milestone-1\\com.example.meuapp-main-6:\\layout\\item_weather.xml"
+    },
+    {
+        "merged": "C:\\Users\\hmcar\\.gradle\\daemon\\9.0-milestone-1\\com.example.meuapp-debug-4:\\menu_menu_main.xml.flat",
+        "source": "C:\\Users\\hmcar\\.gradle\\daemon\\9.0-milestone-1\\com.example.meuapp-main-6:\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "com.example.meuapp-debug-4:/layout_activity_about.xml.flat",
+        "source": "com.example.meuapp-main-6:/layout/activity_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\hmcar\\.gradle\\daemon\\9.0-milestone-1\\com.example.meuapp-debug-4:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\hmcar\\.gradle\\daemon\\9.0-milestone-1\\com.example.meuapp-main-6:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\hmcar\\.gradle\\daemon\\9.0-milestone-1\\com.example.meuapp-debug-4:\\drawable_logo.png.flat",
+        "source": "C:\\Users\\hmcar\\.gradle\\daemon\\9.0-milestone-1\\com.example.meuapp-main-6:\\drawable\\logo.png"
+    }
+]
